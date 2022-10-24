@@ -6,11 +6,14 @@ int main(void)
 
 	switch (num)
 	{
-		case 1;
+		case 1:
 		printf("Case 1!\n");
 		if (1 == 1) printf("if!\n");
 		break;
-
+		
+		case 2:
+		printf("Case 2!\n");
+		break;
 
 	}
 	printf("Below swtich statement!\n");
